@@ -18,3 +18,6 @@ function multiply(a, b){
 # Education
 * Brest State A. Pushkin University
   + Economic cybenetics
+# Languages
+* **Russian** - native
+* **English** - B1 (pre-intermediate)
