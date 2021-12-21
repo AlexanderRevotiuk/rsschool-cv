@@ -20,4 +20,5 @@ function multiply(a, b){
   + Economic cybenetics
 # Languages
 * **Russian** - native
+* **Belarussian** - native
 * **English** - B1 (pre-intermediate)
