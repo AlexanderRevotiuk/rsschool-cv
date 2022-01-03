@@ -1,1 +1,69 @@
-1
+.for-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+}
+.for-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;  
+  align-items: center;
+  list-style: none;
+  margin: auto;
+  background: rgb(53, 142, 214);
+  padding: 0px;
+  height: 40px;
+  font-size: 100%;
+}
+.for-main {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  font-size: 10px;
+  font-family: monospace;  
+}
+.for-footer {
+  display: flex;  
+  flex: 0 0 auto;
+  justify-content: space-around;  
+  align-items: center;
+  background: rgb(53, 142, 214);
+  margin-top: 20px;
+
+  width: 100%;
+  
+}
+.photo {
+  display: flex;
+  justify-content: center;
+  margin: 0px;
+}
+div {
+  text-align: center;
+}
+.contacts {
+  text-align: center;
+  }
+.skills {
+  padding: 0;
+}
+.for-ul {
+  display: flex;
+  flex-direction: column;
+  list-style: none;
+  padding: 0px 5px 5px 5px; 
+  text-align: center;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+}
+.code {
+  display: flex;
+  flex-direction: column;
+}
+.for-pre {   
+  margin: 0;
+}
